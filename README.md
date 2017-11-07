@@ -1,2 +1,3 @@
-# datavis
-Mini-Course on Data Visualization, January@GSAS
+## Mini-Course on Data Visualization, January@GSAS
+
+
