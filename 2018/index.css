@@ -1,0 +1,10 @@
+.container{
+  margin-top: 40px;
+  max-width: 80rem;
+}
+.justified{
+  text-align: justify;
+}
+img{
+  border: 1px dashed gray
+}
